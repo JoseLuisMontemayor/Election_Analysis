@@ -20,6 +20,10 @@ The data we need to retrieve would be:
 4. election_results
 
 
+## Summary 
+The analysis of the election shows that the big 
+
+
 
 
 
