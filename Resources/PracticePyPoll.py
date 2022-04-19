@@ -21,7 +21,6 @@ with open(file_to_load) as election_data:
 election_data.close()
 
 
-
 # Indirect Path to file 
 
 import csv
