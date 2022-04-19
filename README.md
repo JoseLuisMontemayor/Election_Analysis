@@ -11,3 +11,16 @@ The data we need to retrieve would be:
 3. The percentage of votes each candidate won
 4. The total number of votes each candidate won
 5. The winner of the election based on popular votes
+
+
+## Resources
+Visual Studio Code
+GitBash
+Python 3.7 (64-bit)
+election_results
+
+
+
+
+
+
