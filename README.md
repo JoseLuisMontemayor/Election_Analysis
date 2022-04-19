@@ -14,10 +14,10 @@ The data we need to retrieve would be:
 
 
 ## Resources
-Visual Studio Code
-GitBash
-Python 3.7 (64-bit)
-election_results
+1. Visual Studio Code
+2. GitBash
+3. Python 3.7 (64-bit)
+4. election_results
 
 
 
