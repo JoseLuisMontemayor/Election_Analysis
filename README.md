@@ -21,7 +21,16 @@ The data we need to retrieve would be:
 
 
 ## Summary 
-The analysis of the election shows that the big 
+The analysis of the election shows the results of the next candidates:
+
+1. Charles Casper Stockham
+2. Diana DeGette
+3. Raymon Anthony Doane
+
+The winner of the election with the most amount of votes was Diana DeGette, with 272,892 and with 73.8% of the total votation. 
+
+Next was Charles Casper with 23.0% (85,213) and at last Raymon Anthony Doane with 3.1% (11,606). 
+
 
 
 
