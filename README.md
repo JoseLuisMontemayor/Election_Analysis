@@ -32,6 +32,10 @@ An example of the code of the winner of the results, it would be as the next par
 
 As we can see, we assinged the results of the vote count to be arranged with comas and the percentage to only have one decimal. By assigned this type of outcome, we had to end with the *,}\n"* signs in the vote count and with the *.1f}%\n"* signs in the winning percentage. The outcome appears like this: 
 
+![](https://github.com/JoseLuisMontemayor/Election_Analysis/blob/main/Winning_candidates_text.PNG)
+
+
+
 
 
 
