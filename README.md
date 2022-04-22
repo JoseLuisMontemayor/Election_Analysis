@@ -21,3 +21,9 @@ After running the data, the results were the next:
     - Diana DeGette: 73.8% (272,892)
     - Raymon Anthony Doane: 3.1% (11,606)
 * The winner of the election evidently was Diana DeGette, with 73.8% of the total votes (272,892). 
+
+## Election-Audit Summary
+
+The code can be used for any type of election, it is already programmed to throw out the results as in the text file. The only changes that there would be needed would be the change in terms of Text/Strings, counties and names. Within changing the that information the results with other candidates can be expected. In terms of data, the original excel would need to be manipulated with another data, but as long as the threee columns are kept as they are the code would still work, as long as it coincides with the information in the code. 
+
+
