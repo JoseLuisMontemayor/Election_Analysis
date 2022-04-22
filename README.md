@@ -34,10 +34,6 @@ As we can see, we assinged the results of the vote count to be arranged with com
 
 ![](https://github.com/JoseLuisMontemayor/Election_Analysis/blob/main/Winning_candidates_text.PNG)
 
-
-
-
-
-
+This types of details are the key for the outcome to be clean. It is essential to have a coherent code and to be organized in a way for the user to be have the results in an efficient way. 
 
 
